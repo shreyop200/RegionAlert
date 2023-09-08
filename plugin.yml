@@ -1,0 +1,14 @@
+name: RegionAlert
+main: shreyop200\RegionAlert\Main
+
+api: [4.0.0, 5.0.0]
+version: 1.0.0
+
+author: shreyop200
+description: Alerts you By Sending A Title Message when you Stand On Specific Co-Ordinates.
+website: https://wenpixel.games
+
+permissions:
+  regionalert.use:
+    default: true
+    description: "Allows the player to send regionalerts"
