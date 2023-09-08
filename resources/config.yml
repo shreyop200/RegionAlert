@@ -1,1 +1,38 @@
+# Don't Change the Version
+version: 1.1.0
 
+World1: "Wenhub" # Change Wenhub To Your Directed World Name
+X1: 89 # Change 89 to your X CoOrdinates
+Y1: 64 # Change 64 to your Y CoOrdinates
+Z1: 14 # Change 14 to your Z CoOrdinates
+Msg1: "§l§eYour Message Here" # Change The Message to your Wish
+
+World2: "Wenhub"
+X2: 68
+Y2: 7
+Z2: 137
+Msg2: "§l§eYour Message Here"
+
+World3: "Wenhub"
+X3: 42
+Y3: 12
+Z3: 95
+Msg3: "§l§eYour Message Here"
+
+World4: "Wenhub"
+X4: 53
+Y4: 23
+Z4: 74
+Msg4: "§l§eYour Message Here"
+
+World5: "Wenhub"
+X5: 81
+Y5: 5
+Z5: 123
+Msg5: "§l§eYour Message Here"
+
+World6: "Wenhub"
+X6: 95
+Y6: 34
+Z6: 60
+Msg6: "§l§eYour Message Here"
